@@ -5,7 +5,7 @@
 *************************************************************;
 * (Note: Change path name if dta not in the working directory);
 
-cd "C:\my literature\glasgow\job\GTA\Sisir\lab4"
+cd "C:\lab4"
 
 use Guns.dtaو clear
 desc
