@@ -7,7 +7,7 @@
 
 cd "C:\lab4"
 
-use Guns.dtaو clear
+use Guns.dta, clear
 desc
 * d
 
@@ -46,7 +46,7 @@ tabulate year, generate(yr)
 
 global yr_vars "yr2  yr3  yr4  yr5  yr6  yr7  yr8  yr9 yr10 yr11 yr12 yr13 yr14 yr15 yr16 yr17 yr18 yr19 yr20 yr21 yr22 yr23 " 
 
-* global is command to introduce macro avaliable across the programs in Stata 
+* global is a command to introduce macro avaliable across the programs in Stata 
 * to refer to a global macro use $ operator before that macro
 * here yr_vars is a set containing 22 dummy variables that we want to apply in our models 
 
