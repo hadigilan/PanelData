@@ -1,7 +1,3 @@
-*set more off
-*set linesize 240
-*clear all
-
 *************************************************************;
 * (Note: Change path name if dta not in the working directory);
 
